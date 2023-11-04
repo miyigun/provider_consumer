@@ -82,7 +82,7 @@ class ColumnClass extends StatelessWidget {
                   const SizedBox(
                     height: 10.0,
                   ),
-                  child!,
+                  child! ,
                 ],
               );
             },
